@@ -1,5 +1,6 @@
 package com.example.ExpApp;
 
 public class Constants {//절대값
-    String Uri = "" ;
+    String Url = "" ;
+    String File_Url = "";
 }
