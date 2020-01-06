@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="view_type">
+		<item>TextView</item>
+		<item>ScrollView</item>
+		<item>ListView</item>
+		<item>LinearView</item>
+	</string-array>
+	<string-array name="avengers">
+		<item>캡틴 아메리카</item>
+		<item>아이언맨</item>
+		<item>헐크</item>
+		<item>토르</item>
+	</string-array>
+	<string-array name="actor">
+		<item>크리스 에반스</item>
+		<item>로버트 다우니 주니어</item>
+		<item>마크 러팔로</item>
+		<item>크리스 햄스워스</item>
+	</string-array>
+</resources>

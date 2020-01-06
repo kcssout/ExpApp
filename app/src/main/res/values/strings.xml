@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViewPagerSampe</string>
+    <string name="title_view_type_spinner">추가할 뷰를 선택하세요.</string>
+</resources>
